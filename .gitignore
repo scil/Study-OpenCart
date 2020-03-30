@@ -1,0 +1,22 @@
+.idea
+
+upload/config.php
+upload/admin/config.php
+
+
+!index.html
+
+download/
+upload/image/data/
+upload/image/cache/
+upload/system/cache/
+upload/system/logs/
+
+upload/system/storage/
+
+# vQmod log files
+upload/vqmod/logs/*
+# vQmod cache files
+upload/vqmod/vqcache/*
+upload/vqmod/checked.cache
+upload/vqmod/mods.cache

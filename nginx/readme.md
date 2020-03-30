@@ -1,0 +1,16 @@
+
+# 不用nginx，直接与 php-fpm 通信
+```
+# 先修改里面的地址
+./cgi.sh
+```
+
+# 使用nginx命令行，不用nginx服务
+
+```
+# run nginx:
+cd  /vagrant/www/opencart/  &&  sudo nginx -c `pwd`/nginx/nginx-site.conf -p "`pwd`"
+# then:
+curl localhost:8080/install
+```
+
