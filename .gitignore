@@ -13,10 +13,3 @@ upload/system/cache/
 upload/system/logs/
 
 upload/system/storage/
-
-# vQmod log files
-upload/vqmod/logs/*
-# vQmod cache files
-upload/vqmod/vqcache/*
-upload/vqmod/checked.cache
-upload/vqmod/mods.cache
