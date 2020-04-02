@@ -7,3 +7,6 @@
 2020/03/30 22:41:43 [error] 32462#32462: *9 open() "/vagrant/www/opencart-3.0.3.2/upload/favicon.ico" failed (2: No such file or directory), client: 192.168.1.5, server: _, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.200:8080"
 2020/03/30 22:41:43 [error] 32462#32462: *9 open() "/var/www/errors/404.html" failed (2: No such file or directory), client: 192.168.1.5, server: _, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.200:8080"
 2020/03/31 00:30:06 [info] 4250#4250: *1 writev() failed (32: Broken pipe) while sending response to client, client: 192.168.1.5, server: _, request: "GET /install/view/javascript/jquery/jquery-2.1.1.min.js HTTP/1.1", host: "192.168.1.200:8080", referrer: "http://192.168.1.200:8080/install/index.php"
+2020/04/02 00:50:37 [error] 15500#15500: *4 open() "/vagrant/www/opencart/./upload/favicon.ico" failed (2: No such file or directory), client: 192.168.1.5, server: _, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.200:8080"
+2020/04/02 00:50:37 [error] 15500#15500: *4 open() "/var/www/errors/404.html" failed (2: No such file or directory), client: 192.168.1.5, server: _, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.200:8080"
+2020/04/02 00:50:41 [info] 15500#15500: *7 client closed connection while waiting for request, client: 192.168.1.5, server: 0.0.0.0:8080

@@ -14,3 +14,7 @@ cd  /vagrant/www/opencart/  &&  sudo nginx -c `pwd`/nginx/nginx-site.conf -p "`p
 curl localhost:8080/install
 ```
 
+```
+# shut down
+killall nginx
+```
