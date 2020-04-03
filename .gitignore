@@ -1,4 +1,6 @@
 .idea
+nginx/access
+nginx/err
 
 upload/config.php
 upload/admin/config.php
@@ -7,9 +9,10 @@ upload/admin/config.php
 !index.html
 
 download/
+storage/
+
 upload/image/data/
 upload/image/cache/
 upload/system/cache/
 upload/system/logs/
-
 upload/system/storage/
