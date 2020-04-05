@@ -1,6 +1,6 @@
 .idea
-nginx/access
-nginx/err
+nginx/access.log
+nginx/error.log
 
 upload/config.php
 upload/admin/config.php
@@ -10,6 +10,7 @@ upload/admin/config.php
 
 download/
 storage/
+test/
 
 upload/image/data/
 upload/image/cache/
