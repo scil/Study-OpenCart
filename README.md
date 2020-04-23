@@ -4,7 +4,7 @@ current version: 3.0.3.2
 
 ## Env
 - php
-- mysql   `mysql -u root -p -e ¡°create database opencart;¡±`
+- mysql   `mysql -u root -p -e "create database opencart;"`
 - php-fpm
 
 ## install
@@ -25,5 +25,5 @@ cd upload
 php -S localhost:8080
 ```
 
-or use nginx `nginx/readme.md`
+or use nginx, see `nginx/readme.md`
 
