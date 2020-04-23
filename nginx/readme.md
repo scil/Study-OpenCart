@@ -1,11 +1,11 @@
 
-# 不用nginx，直接与 php-fpm 通信
+# 方案一：不用nginx，直接与 php-fpm 通信
 ```
 # 先修改里面的地址
 ./cgi.sh
 ```
 
-# 使用nginx命令行，不用nginx服务
+# 方案二：使用nginx命令行，不用nginx服务
 
 ```
 # run nginx:

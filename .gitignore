@@ -1,6 +1,6 @@
-.idea
-nginx/access.log
-nginx/error.log
+/.idea
+/nginx/access.log
+/nginx/error.log
 
 upload/config.php
 upload/admin/config.php
